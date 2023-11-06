@@ -1,0 +1,7 @@
+.hello-container{
+    border: 1px solid grey;
+    padding: 20px;
+    width: 50%;
+    margin: 20px;
+    background-color:antiquewhite;
+}
