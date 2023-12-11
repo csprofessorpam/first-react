@@ -1,0 +1,20 @@
+.flashcard-container{
+    border: 1px solid lightgray;
+    margin: 20px;
+}
+
+.q-container{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 10px;
+   background-color:azure; 
+}
+.question-text{
+    height: 50px;
+    padding: 10px;
+}
+
+.answer-text{
+    padding: 10px;
+}

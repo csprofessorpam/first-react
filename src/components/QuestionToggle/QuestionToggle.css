@@ -1,0 +1,15 @@
+.collapsible-container{
+    border: 1px solid lightgray;
+    margin: 20px;
+}
+.q-container{
+    background-color:azure;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.a-container{
+    padding: 10px;
+}
